@@ -48,7 +48,7 @@ Currently :  Building AI systems that work in production
 <tr>
 <td width="50%" valign="top">
 
-**Multi-AI-Agents Chat Support System**
+**Multi-AI-Models Chat Support System**
 
 A secure platform orchestrating parallel responses
 from multiple LLMs simultaneously. Unified API
