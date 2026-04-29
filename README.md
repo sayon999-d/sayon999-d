@@ -87,6 +87,7 @@ Zero external API dependencies. Automated scraping
 pipelines feed ChromaDB; Ollama serves local LLMs
 (Mistral, LLaMA). One-command Docker deployment.
 
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-181717?style=flat-square&logo=streamlit&logoColor=white)](https://local-knowledge-chatbot.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
@@ -103,9 +104,34 @@ feature engineering and model evaluation loops
 benchmark regression and tree-based models on
 sales time-series data.
 
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-181717?style=flat-square&logo=streamlit&logoColor=white)](https://sales-forecasting-prediction-model-n.streamlit.app/)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**NLP Transformation Engine**
+
+Advanced NLP pipeline that converts AI-generated text
+into natural, human-like writing. Configurable
+humanization, summarization, and readability
+optimization with real-time AI pattern detection
+across 18 signal types. Style-adaptive output
+targeting Casual, Professional, Academic, and Concise
+registers.
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-181717?style=flat-square&logo=streamlit&logoColor=white)](https://nlp-transformation-engine.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -127,9 +153,11 @@ sales time-series data.
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-4A90D9?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C3483?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 **Databases**
 
@@ -139,10 +167,13 @@ sales time-series data.
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 
-**DevOps & Cloud**
+**DevOps, Streaming & Observability**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
