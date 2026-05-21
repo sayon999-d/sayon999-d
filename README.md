@@ -177,7 +177,7 @@ registers.
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C3483?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-**Agent Orchestration** *(from building Limbi)*
+**Agent Orchestration**
 
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-1e5aa8?style=for-the-badge)
 ![MCP Server](https://img.shields.io/badge/MCP_Server_Protocol-4A90D9?style=for-the-badge)
