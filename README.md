@@ -48,6 +48,27 @@ Currently :  Building AI systems that work in production
 <tr>
 <td width="50%" valign="top">
 
+**Limbi — Omni-Agent Orchestration Platform**
+
+A production-grade multi-agent orchestration platform
+with 89 specialized agents and 435 available actions.
+One command routes across engineering, security, cloud,
+DevOps, finance, and domain agents. Supports 19 LLM
+provider modes — local (Ollama, LM Studio, vLLM) and
+cloud (OpenAI, Anthropic, Groq, OpenRouter). Features
+graph-backed session memory, RAG pipelines, FastAPI
+backend, MCP server, and VS Code extension.
+
+[![PyPI](https://img.shields.io/badge/PyPI-limbi-0194E2?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/limbi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP_Server-4A90D9?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
 **Multi-AI-Models Chat Support System**
 
 A secure platform orchestrating parallel responses
@@ -61,6 +82,8 @@ with Tavily-powered real-time web research.
 ![Tavily](https://img.shields.io/badge/Tavily-4A90D9?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **Hike.ai — Unified AI Orchestration Platform**
@@ -76,8 +99,6 @@ secured with Google OAuth 2.0 and bcrypt auth.
 ![NewsAPI](https://img.shields.io/badge/NewsAPI-FF6600?style=flat-square)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **Local Knowledge Chatbot — RAG System**
@@ -94,6 +115,8 @@ pipelines feed ChromaDB; Ollama serves local LLMs
 ![Ollama](https://img.shields.io/badge/Ollama-181717?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **Sales Forecasting ML Pipeline**
@@ -110,8 +133,6 @@ sales time-series data.
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **NLP Transformation Engine**
@@ -129,9 +150,6 @@ registers.
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -159,6 +177,17 @@ registers.
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C3483?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
+**Agent Orchestration** *(from building Limbi)*
+
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-1e5aa8?style=for-the-badge)
+![MCP Server](https://img.shields.io/badge/MCP_Server_Protocol-4A90D9?style=for-the-badge)
+![Agent Registry](https://img.shields.io/badge/Agent_Registry_Design-00B894?style=for-the-badge)
+![Context Memory](https://img.shields.io/badge/Graph_Session_Memory-6C3483?style=for-the-badge)
+![Provider Abstraction](https://img.shields.io/badge/LLM_Provider_Abstraction-0984E3?style=for-the-badge)
+![Audit Logging](https://img.shields.io/badge/Structured_Audit_Logging-2d3436?style=for-the-badge)
+![PyPI Publishing](https://img.shields.io/badge/PyPI_Package_Publishing-0194E2?style=for-the-badge&logo=pypi&logoColor=white)
+![VS Code Extension](https://img.shields.io/badge/VS_Code_Extension_Dev-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -184,23 +213,13 @@ registers.
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=sayon999-d&show_icons=true&theme=tokyonight&hide_border=true&title_color=4a90d9&icon_color=4a90d9&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sayon999-d&show_icons=true&theme=tokyonight&hide_border=true&title_color=4a90d9&icon_color=4a90d9&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sayon999-d&layout=compact&theme=tokyonight&hide_border=true&title_color=4a90d9&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayon999-d&layout=compact&theme=tokyonight&hide_border=true&title_color=4a90d9&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="42%" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=sayon999-d&theme=tokyonight&hide_border=true&ring=4a90d9&fire=4a90d9&currStreakLabel=4a90d9&background=0d1117" width="60%" />
-
-</div>
-
----
-
-### Contribution Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/26a641/sayon999-d" alt="Sayon Manna Contribution Chart" width="100%" />
 
 </div>
 
