@@ -177,7 +177,7 @@ registers.
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C3483?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-**Agent Orchestration**
+**Agent Orchestration** *(from building Limbi)*
 
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-1e5aa8?style=for-the-badge)
 ![MCP Server](https://img.shields.io/badge/MCP_Server_Protocol-4A90D9?style=for-the-badge)
@@ -196,6 +196,14 @@ registers.
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 
+**Foundations**
+
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-Intermediate-e74c3c?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Systematic_%26_First_Principles-2ecc71?style=for-the-badge)
+![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-Deep_%26_Systems_Level-f39c12?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Design_Patterns_%26_Abstractions-3498db?style=for-the-badge)
+![Linux & CLI](https://img.shields.io/badge/Linux_%26_CLI-Daily_Driver-2c3e50?style=for-the-badge&logo=linux&logoColor=white)
+
 **DevOps, Streaming & Observability**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -208,20 +216,6 @@ registers.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sayon999-d&show_icons=true&theme=tokyonight&hide_border=true&title_color=4a90d9&icon_color=4a90d9&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayon999-d&layout=compact&theme=tokyonight&hide_border=true&title_color=4a90d9&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="42%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sayon999-d&theme=tokyonight&hide_border=true&ring=4a90d9&fire=4a90d9&currStreakLabel=4a90d9&background=0d1117" width="60%" />
-
-</div>
 
 ---
 
