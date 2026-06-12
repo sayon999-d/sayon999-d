@@ -217,24 +217,19 @@ registers.
 
 ---
 
----
-
 ### Certifications
 
-![Wolfram](https://img.shields.io/badge/ML_Statistical_Foundations-Wolfram_Research-DD1100?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Analyzing_VoIP_Traffic-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking_Foundations-Networking_Basics-0078D4?style=for-the-badge)
-![Deloitte](https://img.shields.io/badge/Technology_Job_Simulation-Deloitte_Australia-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)
-![Revit](https://img.shields.io/badge/Revit_2019_MEP_Essential_Training-Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-
----
-
-### Languages
-
-![English](https://img.shields.io/badge/English-Professional_Proficiency-1e5aa8?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Native-c47000?style=flat-square)
-![Bengali](https://img.shields.io/badge/Bengali-Native-1a6b3a?style=flat-square)
-![Kannada](https://img.shields.io/badge/Kannada-Conversational-6b1a1a?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Deep Learning Essentials](https://img.shields.io/badge/Deep_Learning_Essentials-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Streamlit ML App](https://img.shields.io/badge/Build_a_Machine_Learning_Web_App_with_Streamlit_%26_Python-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Intro to AI](https://img.shields.io/badge/Introduction_to_Artificial_Intelligence_(AI)-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing%3A_Schema%2C_ETL%2C_Optimal_Performance-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![ML with Python](https://img.shields.io/badge/Machine_Learning_with_Python-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API_(Intermediate)-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Containers & Kubernetes](https://img.shields.io/badge/Containers_%26_Kubernetes_Essentials-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![AWS Cloud Essentials](https://img.shields.io/badge/AWS_Knowledge%3A_Cloud_Essentials-Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Introduction_to_Generative_AI-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Intro_to_Operating_Systems_1%3A_Virtualization-Codio-FF6F00?style=for-the-badge)
 
 ---
 
