@@ -20,8 +20,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayon999-d&layout=compact&theme=tokyonight&hide_border=true&title_color=4a90d9&text_color=c9d1d9&bg_color=0d1117&langs_count=6" width="35%" />
-
 ### About Me
 
 I am a **Computer Science undergraduate** at Jain (Deemed-to-be University), Bengaluru,
@@ -37,8 +35,6 @@ Degree    :  B.Tech Computer Science (2024 – 2028)
 Focus     :  LLM Orchestration · RAG Pipelines · Backend APIs
 Currently :  Building AI systems that work in production
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -135,21 +131,57 @@ sales time-series data.
 </td>
 <td width="50%" valign="top">
 
-**NLP Transformation Engine**
+**Orca — Model-Driven Image Intelligence Dashboard**
 
-Advanced NLP pipeline that converts AI-generated text
-into natural, human-like writing. Configurable
-humanization, summarization, and readability
-optimization with real-time AI pattern detection
-across 18 signal types. Style-adaptive output
-targeting Casual, Professional, Academic, and Concise
-registers.
+A pattern-discovery and visual-inspection platform that
+runs fully in-browser or backed by a Python/OpenCV API.
+Groups visual evidence into candidate regions, runs
+recursive deep search on suspicious crops, tracks an
+investigation timeline, clusters recurring unknown
+patterns via vector memory, and exports YOLO/COCO/JSON
+evidence bundles for dataset building.
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-181717?style=flat-square&logo=streamlit&logoColor=white)](https://nlp-transformation-engine.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-181717?style=flat-square&logo=vercel&logoColor=white)](https://project-5-jade-phi.vercel.app/)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+### Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**MERN Full-Stack Web Developer Intern**
+Axlero
+
+`Sep 5, 2026 – Dec 5, 2026`
+
+![Current](https://img.shields.io/badge/Status-Current-00C851?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**Data Analyst Intern**
+Bluestock Fintech
+
+`May 28, 2026 – Jul 28, 2026`
+
+![Completed](https://img.shields.io/badge/Status-Completed-4A90D9?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-2ecc71?style=flat-square)
 
 </td>
 </tr>
